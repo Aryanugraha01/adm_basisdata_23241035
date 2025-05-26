@@ -1,5 +1,5 @@
--- nama : Lalu Andra Khairil Ramadhan
--- nim : 23241009
+-- nama : Rahmat Pratama Arya Nugraha
+-- nim : 23241035
 -- kelas : A 
 
 --- melihat data bases
